@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Static Hand Gesture Recognition
 
 Author: Biswashanti Mohapatra  
@@ -47,3 +48,6 @@ We then map finger states to gestures:
    .venv\Scripts\activate
    # macOS/Linux
    source .venv/bin/activate
+=======
+[Watch the demo video](https://drive.google.com/file/d/1xszFjlynNxWhY-7r2BxhAuFMwt-0hJdC/view?usp=drivesdk)
+>>>>>>> 452bf1f32246f3a979b3f4d595a4cb5fcb8b2ace
